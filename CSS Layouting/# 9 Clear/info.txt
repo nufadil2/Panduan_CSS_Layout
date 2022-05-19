@@ -1,0 +1,13 @@
+cara menghentikan dan membersihkan float
+
+menggunakan properti overflow
+teknik overflow dengan cara tersebut diggunakan sebagian yang kurang tepat 
+karena ada cara untuk menghentikan membersihkan float yaitu dengan menggunakan
+fungsi clear untuk menghentikan membersihkan float
+
+menggunakan <div> kosong
+teknik dengan div kosong masih memungkinkan untuk menggukanan div yang tidak ada gunanya
+sama sekali yang menybabkan kode yang diberikan menjadi kurang bagus ada yang lebih
+baik lagi dengan menggunakan teknik micro clearfix 
+
+menggunakan teknik micro clearfix

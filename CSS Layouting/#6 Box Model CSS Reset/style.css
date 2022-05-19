@@ -1,0 +1,28 @@
+/* selector universal dengan menggunakan
+simbol untuk melakukan reset CSS(*) 
+penggunaan selector universal termasuk
+selector terberat */
+
+/* ada cara yan lebih efektif dengan menggunjungi 
+syintax pada css reset di web browser dengan melakukan 
+pencarian pada borwser kunjungi situs my web
+
+https://meyerweb.com/eric/tools/css/reset
+*/
+
+* {
+    margin: 0px;
+    padding: 0;
+}
+
+/* body ,h1, p{
+    margin: 0px;
+    padding: 0;
+} */
+
+div {
+    width: 200px;
+    height: 200px;
+    background-color: black;
+ 
+}

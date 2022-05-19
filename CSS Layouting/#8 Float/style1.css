@@ -1,0 +1,21 @@
+/* style css dengan normal flow */
+div {
+    width: 100px;
+    height: 100px;
+}
+
+.satu {
+    background-color: salmon;
+}
+
+.dua {
+    background-color: lightgreen;
+    float: left;
+    /* out-of flow sebab diberikan float keluar
+    dari normal */
+    margin-left: 10px;
+}
+
+.tiga {
+    background-color: lightskyblue;
+}

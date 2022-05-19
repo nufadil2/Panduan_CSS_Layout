@@ -1,0 +1,18 @@
+div {
+    width: 600px;
+    margin: 10px auto;
+    /* box sizing untuk mengatur lebar dari masing kotak 600px
+    berapa pun padding yang diberikan*/
+    box-sizing: border-box;
+}
+.satu {
+    background-color: royalblue;
+    padding: 10px;
+    border: 15px solid red;
+}
+
+.dua {
+    background-color: lightgreen;
+    padding: 30px;
+    border: 5px dashed orange;
+}

@@ -1,0 +1,36 @@
+div {
+    width: 300px;
+    height: 300px;
+    background-color: coral;
+    margin: 20px auto;/* atas dan bawah
+    20 px dan kiri kanan auto*/
+
+/* untuk pading */
+    /* padding-left: 20px;
+    padding-top: 10px; */
+
+    /* pading satu baris 
+    atas kanan bawah kiri */
+/* 
+    padding: 10px 20px 30px 40px; */
+
+    /* padding tidak bisa auto
+    padding tidak bisa di beri nilai
+    negetiv */
+    padding: 50px;
+/* 
+border dengan ketebalan 5px
+jenis border solid, dotted, dashed, double
+warna border black
+ */
+    /* border: 5px dotted black; */
+
+/* 
+border dengan sisinya saja
+*/
+    border-left: 5px dotted black;
+    border-right: 10px dashed royalblue;
+}
+
+
+
